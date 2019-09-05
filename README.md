@@ -1,3 +1,7 @@
+# material-grid-playground
+
+A simple react app to play with the Material-UI grid System.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
